@@ -1,4 +1,3 @@
 cooderl/wewe-rss-sqlite:latest
 oven/bun:latest
-golang:alpine
 alpine
