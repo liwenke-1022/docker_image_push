@@ -1,3 +1,4 @@
 cooderl/wewe-rss-sqlite:latest
 oven/bun:latest
 alpine
+nacos
