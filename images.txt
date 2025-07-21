@@ -1,1 +1,4 @@
 nacos/nacos-server:v2.1.0
+cuda12.6.3
+Ubuntu22.04
+Python3.12
